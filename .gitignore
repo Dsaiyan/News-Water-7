@@ -10,7 +10,9 @@
 
 # production
 /build
-
+# env variable 
+config/*.secret.json
+*.env.local
 # misc
 .DS_Store
 .env.local
